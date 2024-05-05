@@ -11,6 +11,3 @@ const index = () => {
 export default index
 
 const styles = StyleSheet.create({})
-
-// -> "/"
-// -> "/home"
